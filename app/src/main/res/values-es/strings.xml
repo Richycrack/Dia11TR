@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dia11TR</string>
+    <string name="view_button">Vista</string>
+    <string name="lbl_TR">holi</string>
+    <string name="lbl_button2">Second View</string>
+    <string name="lbl2">Second</string>
+</resources>

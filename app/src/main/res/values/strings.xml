@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dia11TR</string>
+    <string name="view_button">view</string>
+    <string name="lbl_TR">hello word</string>
+    <string name="lbl2">Segundo</string>
+    <string name="lbl_button2">segundaVista</string>
+</resources>
